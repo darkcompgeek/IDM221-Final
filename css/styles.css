@@ -1,4 +1,5 @@
 @import "normalize.css";
+@import "fonts.css";
 
 html {
   min-height: 100vh;
