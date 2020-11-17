@@ -2,6 +2,7 @@ html {
   min-height: 100vh;
   font-family: "Gotham-Book", sans-serif;
   background-color: var(--gray);
+  font-size: 100%;
 }
 * {
   box-sizing: border-box;
@@ -18,4 +19,12 @@ ul {
 }
 ul li {
   list-style: none;
+}
+.link:link,
+.link:visited {
+  color: var(--black);
+  transition: 0.25s ease;
+}
+.content-grid {
+  margin: 0 1.25rem;
 }

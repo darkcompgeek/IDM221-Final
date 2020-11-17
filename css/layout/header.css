@@ -1,0 +1,12 @@
+header {
+}
+header h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 1.25rem;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
