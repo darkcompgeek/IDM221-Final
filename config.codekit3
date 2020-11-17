@@ -57,6 +57,16 @@
 		"oF": 1,
 		"oS": 1
 		},
+	"/css/base/variables.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/base/variables-min.css",
+		"oF": 0,
+		"oS": 1
+		},
 	"/css/layout/footer.css": {
 		"aP": 1,
 		"bl": 0,
