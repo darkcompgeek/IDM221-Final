@@ -17,34 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
-	"/css/base/base-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/base/base-min-min.css",
-		"oF": 0,
-		"oS": 1
-		},
 	"/css/base/base.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/base/base-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/base/fonts-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/base/fonts-min-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/base/fonts.css": {
@@ -52,9 +32,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/base/fonts-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/base/normalize.css": {
@@ -62,19 +42,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/base/normalize-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/base/typography-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/base/typography-min-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/base/typography.css": {
@@ -82,19 +52,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/base/typography-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/layout/footer-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/layout/footer-min-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/layout/footer.css": {
@@ -102,9 +62,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/layout/footer-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/layout/header.css": {
@@ -112,19 +72,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/layout/header-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/styles-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/styles-min-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/css/styles.css": {
@@ -132,9 +82,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/styles-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 1
 		},
 	"/fonts/Gotham-Black.woff2": {
