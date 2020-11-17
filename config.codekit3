@@ -45,33 +45,33 @@
 		"oAP": "/img/about/sai.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/personal/p3.png": {
-		"ft": 32768,
-		"iS": 1014326,
+	"/img/personal/p3.jpg": {
+		"ft": 16384,
+		"iS": 159336,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/personal/p3.png",
+		"oAP": "/img/personal/p3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/personal/p5.png": {
-		"ft": 32768,
-		"iS": 1242515,
+	"/img/personal/p5.jpg": {
+		"ft": 16384,
+		"iS": 182692,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/personal/p5.png",
+		"oAP": "/img/personal/p5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -89,9 +89,9 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/personal/pq2.jpeg": {
+	"/img/personal/pq2.jpg": {
 		"ft": 16384,
-		"iS": 144836,
+		"iS": 94625,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/personal/pq2.jpg",
@@ -110,7 +110,7 @@
 		"oAP": "/img/portfolio/aalto/poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -123,7 +123,7 @@
 		"oAP": "/img/portfolio/awbury/gate.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -141,64 +141,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/awbury/map-front.png": {
-		"ft": 32768,
-		"iS": 8870967,
-		"oA": 0,
-		"oAP": "/img/portfolio/awbury/map-front.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/img/portfolio/awbury/map-inside.png": {
-		"ft": 32768,
-		"iS": 3446500,
-		"oA": 0,
-		"oAP": "/img/portfolio/awbury/map-inside.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/img/portfolio/awbury/parking.png": {
-		"ft": 32768,
-		"iS": 48113,
-		"oA": 0,
-		"oAP": "/img/portfolio/awbury/parking.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/img/portfolio/awbury/sign-mockup.png": {
-		"ft": 32768,
-		"iS": 1920550,
-		"oA": 0,
-		"oAP": "/img/portfolio/awbury/sign-mockup.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/img/portfolio/awbury/System.jpg": {
+	"/img/portfolio/awbury/map-front.jpg": {
 		"ft": 16384,
-		"iS": 131522,
+		"iS": 1482112,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/awbury/System.jpg",
+		"oAP": "/img/portfolio/awbury/map-front.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -206,15 +154,67 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/awbury/trail.png": {
-		"ft": 32768,
-		"iS": 56033,
+	"/img/portfolio/awbury/map-inside.jpg": {
+		"ft": 16384,
+		"iS": 560236,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/awbury/trail.png",
+		"oAP": "/img/portfolio/awbury/map-inside.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/portfolio/awbury/parking.jpg": {
+		"ft": 16384,
+		"iS": 90374,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/portfolio/awbury/parking.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/portfolio/awbury/sign-mockup.jpg": {
+		"ft": 16384,
+		"iS": 344209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/portfolio/awbury/sign-mockup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/portfolio/awbury/system.jpg": {
+		"ft": 16384,
+		"iS": 131522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/portfolio/awbury/system.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/portfolio/awbury/trail.jpg": {
+		"ft": 16384,
+		"iS": 111217,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/portfolio/awbury/trail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -227,33 +227,33 @@
 		"oAP": "/img/portfolio/awbury/transit.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/awbury/website.png": {
-		"ft": 32768,
-		"iS": 2682634,
+	"/img/portfolio/awbury/website.jpg": {
+		"ft": 16384,
+		"iS": 485329,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/awbury/website.png",
+		"oAP": "/img/portfolio/awbury/website.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/awbury/welcome-sign.png": {
-		"ft": 32768,
-		"iS": 494880,
+	"/img/portfolio/awbury/welcome-sign.jpg": {
+		"ft": 16384,
+		"iS": 69225,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/awbury/welcome-sign.png",
+		"oAP": "/img/portfolio/awbury/welcome-sign.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -266,7 +266,7 @@
 		"oAP": "/img/portfolio/brompton/poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -284,9 +284,9 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/downton/downton.jpeg": {
+	"/img/portfolio/downton/downton.jpg": {
 		"ft": 16384,
-		"iS": 1450294,
+		"iS": 199201,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/portfolio/downton/downton.jpg",
@@ -305,7 +305,7 @@
 		"oAP": "/img/portfolio/exhibition/arts-close.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -318,7 +318,7 @@
 		"oAP": "/img/portfolio/exhibition/arts-close2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -331,7 +331,7 @@
 		"oAP": "/img/portfolio/exhibition/arts-front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -344,7 +344,7 @@
 		"oAP": "/img/portfolio/exhibition/exhibit-front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -357,7 +357,7 @@
 		"oAP": "/img/portfolio/exhibition/exhibit-side.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -370,7 +370,7 @@
 		"oAP": "/img/portfolio/exhibition/morris-close.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -396,7 +396,7 @@
 		"oAP": "/img/portfolio/exhibition/morris-front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -409,7 +409,7 @@
 		"oAP": "/img/portfolio/fatherland/front-full-open.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -435,7 +435,7 @@
 		"oAP": "/img/portfolio/fatherland/front-open.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -448,7 +448,7 @@
 		"oAP": "/img/portfolio/fatherland/front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -461,7 +461,7 @@
 		"oAP": "/img/portfolio/good-dog/front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -474,7 +474,7 @@
 		"oAP": "/img/portfolio/jagat/contents-close.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -487,7 +487,7 @@
 		"oAP": "/img/portfolio/jagat/contents.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -513,7 +513,7 @@
 		"oAP": "/img/portfolio/jagat/front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -552,7 +552,7 @@
 		"oAP": "/img/portfolio/jagat/second-spread-close.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -565,14 +565,14 @@
 		"oAP": "/img/portfolio/jagat/second-spread.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/tesla/tesla.jpeg": {
+	"/img/portfolio/tesla/tesla.jpg": {
 		"ft": 16384,
-		"iS": 177825,
+		"iS": 124787,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/portfolio/tesla/tesla.jpg",
@@ -583,15 +583,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/wydeye/bring-it-back.png": {
-		"ft": 32768,
-		"iS": 5616026,
+	"/img/portfolio/wydeye/bring-it-back.jpg": {
+		"ft": 16384,
+		"iS": 587854,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/wydeye/bring-it-back.png",
+		"oAP": "/img/portfolio/wydeye/bring-it-back.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -604,33 +604,33 @@
 		"oAP": "/img/portfolio/wydeye/kong.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/wydeye/magic.png": {
-		"ft": 32768,
-		"iS": 1794200,
+	"/img/portfolio/wydeye/magic.jpg": {
+		"ft": 16384,
+		"iS": 957859,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/wydeye/magic.png",
+		"oAP": "/img/portfolio/wydeye/magic.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/wyre/branding.png": {
-		"ft": 32768,
-		"iS": 190564,
+	"/img/portfolio/wyre/branding.jpg": {
+		"ft": 16384,
+		"iS": 124891,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/wyre/branding.png",
+		"oAP": "/img/portfolio/wyre/branding.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -648,15 +648,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/wyre/venmo.png": {
-		"ft": 32768,
-		"iS": 1397854,
+	"/img/portfolio/wyre/venmo.jpg": {
+		"ft": 16384,
+		"iS": 953671,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/wyre/venmo.png",
+		"oAP": "/img/portfolio/wyre/venmo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
