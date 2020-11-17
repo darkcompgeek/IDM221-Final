@@ -1,6 +1,7 @@
 html {
   min-height: 100vh;
   font-family: "Gotham-Book", sans-serif;
+  background-color: var(--gray);
 }
 * {
   box-sizing: border-box;
