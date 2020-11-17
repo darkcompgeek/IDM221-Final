@@ -1,0 +1,7 @@
+#portfolio-grid li:nth-child(1) {
+  background-image: url("../../img/portfolio/spice-kit/");
+}
+
+#portfolio-grid li:nth-child(2) {
+  background-image: url("../../img/portfolio/wyre/promo.jpg");
+}
