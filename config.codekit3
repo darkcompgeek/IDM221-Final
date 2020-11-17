@@ -17,73 +17,103 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
-	"/css/base-min.css": {
+	"/css/base/base-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/base-min-min.css",
+		"oAP": "/css/base/base-min-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/base.css": {
+	"/css/base/base.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/base-min.css",
+		"oAP": "/css/base/base-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/fonts-min.css": {
+	"/css/base/fonts-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/fonts-min-min.css",
+		"oAP": "/css/base/fonts-min-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/fonts.css": {
+	"/css/base/fonts.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/fonts-min.css",
+		"oAP": "/css/base/fonts-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/footer.css": {
+	"/css/base/normalize.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/footer-min.css",
+		"oAP": "/css/base/normalize-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/header.css": {
+	"/css/base/typography-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/header-min.css",
+		"oAP": "/css/base/typography-min-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/normalize.css": {
+	"/css/base/typography.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/normalize-min.css",
+		"oAP": "/css/base/typography-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/css/layout/footer-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/layout/footer-min-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/css/layout/footer.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/layout/footer-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/css/layout/header.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/layout/header-min.css",
 		"oF": 0,
 		"oS": 1
 		},
@@ -104,26 +134,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/styles-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/typography-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/typography-min-min.css",
-		"oF": 0,
-		"oS": 1
-		},
-	"/css/typography.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/typography-min.css",
 		"oF": 0,
 		"oS": 1
 		},

@@ -1,6 +1,6 @@
-@import url(normalize.css);
-@import url(base.css);
-@import url(fonts.css);
-@import url(typography.css);
-@import url(header.css);
-@import url(footer.css);
+@import url(base/normalize.css);
+@import url(base/base.css);
+@import url(base/fonts.css);
+@import url(base/typography.css);
+@import url(layout/header.css);
+@import url(layout/footer.css);
