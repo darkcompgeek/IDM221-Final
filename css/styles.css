@@ -1,8 +1,10 @@
 @import "normalize.css";
 @import "fonts.css";
+@import "typography.css";
 
 html {
   min-height: 100vh;
+  font-family: "Gotham-Book", sans-serif;
 }
 * {
   box-sizing: border-box;
