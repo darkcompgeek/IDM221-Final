@@ -25,6 +25,13 @@ ul li {
   color: var(--black);
   transition: 0.25s ease;
 }
+.link:hover,
+.link:active {
+  color: var(--liteGray);
+}
 .content-grid {
   margin: 0 1.25rem;
+}
+.selected {
+  border-bottom: 3px solid #000;
 }
