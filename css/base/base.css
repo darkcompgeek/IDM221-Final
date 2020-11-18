@@ -44,10 +44,35 @@ ul li {
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 35vh;
 }
+
 .background {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.container div {
+  height: 37vh;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: #008cba;
+  border-radius: 0.5rem;
+}
+
+.container:hover .overlay {
+  opacity: 1;
 }
