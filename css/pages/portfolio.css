@@ -1,6 +1,40 @@
+#portfolio-grid li {
+  border-radius: 0.5rem;
+}
+
 #portfolio-grid li:nth-child(1) {
-  background-image: url("../../img/portfolio/spice-kit/");
+  background-image: url("../../img/portfolio/spice-kit/front_open.jpg");
 }
 #portfolio-grid li:nth-child(2) {
   background-image: url("../../img/portfolio/wyre/promo.jpg");
+}
+#portfolio-grid li:nth-child(3) {
+  background-image: url("../../img/portfolio/exhibition/exhibit-front.jpg");
+}
+#portfolio-grid li:nth-child(4) {
+  background-image: url("../../img/portfolio/awbury/gate.jpg");
+}
+#portfolio-grid li:nth-child(5) {
+  background-image: url("../../img/portfolio/wydeye/bring-it-back.jpg");
+}
+#portfolio-grid li:nth-child(6) {
+  background-image: url("../../img/portfolio/jagat/front.jpg");
+}
+#portfolio-grid li:nth-child(7) {
+  background-image: url("../../img/portfolio/good-dog/front.jpg");
+}
+#portfolio-grid li:nth-child(8) {
+  background-image: url("../../img/portfolio/downton/downton.jpg");
+}
+#portfolio-grid li:nth-child(9) {
+  background-image: url("../../img/portfolio/brompton/tube-ad.jpg");
+}
+#portfolio-grid li:nth-child(10) {
+  background-image: url("../../img/portfolio/tesla/tesla.jpg");
+}
+#portfolio-grid li:nth-child(11) {
+  background-image: url("../../img/portfolio/fatherland/front-full-open2.jpg");
+}
+#portfolio-grid li:nth-child(12) {
+  background-image: url("../../img/portfolio/aalto/poster.jpg");
 }
