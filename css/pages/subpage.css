@@ -17,3 +17,10 @@
   text-align: center;
   padding: 1rem 0;
 }
+.subpage-header {
+  height: 35vh;
+}
+
+#awbury-header {
+  background-image: url("../../img/portfolio/awbury/gate.jpg");
+}
