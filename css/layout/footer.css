@@ -9,6 +9,10 @@ footer ul {
 footer ul li {
   margin: 1rem 1rem;
 }
+footer ul li a:link,
+a:visited {
+  font-weight: 700;
+}
 footer p {
   text-align: center;
   margin: 1rem 1rem;
