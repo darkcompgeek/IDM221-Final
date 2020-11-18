@@ -44,6 +44,7 @@ ul li {
   align-items: center;
   justify-content: center;
   text-align: center;
+  padding: 1.25rem;
 }
 
 .background {
@@ -68,8 +69,8 @@ ul li {
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: 0.5s ease;
-  background-color: #008cba;
+  transition: 0.25s ease;
+  background-color: var(--white);
   border-radius: 0.5rem;
 }
 
