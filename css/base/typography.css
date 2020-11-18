@@ -10,3 +10,7 @@ a {
   text-decoration: none;
   font-family: "Gotham";
 }
+p {
+  margin-bottom: 0.75rem;
+  line-height: 1.5rem;
+}
