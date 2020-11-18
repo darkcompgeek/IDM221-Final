@@ -4,3 +4,16 @@
 .subpage-body figure {
   padding-bottom: 1.5rem;
 }
+.subpage-body .link {
+  font-weight: 700;
+  border: 2px solid #000;
+  border-radius: 0.5rem;
+  padding: 1rem 2rem;
+}
+.subpage-body section:nth-child(3) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem 0;
+}
