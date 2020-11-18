@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/about.html",
+		"oF": 0
+		},
 	"/css/base/base.css": {
 		"aP": 1,
 		"bl": 0,
@@ -104,6 +112,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/pages/portfolio-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/css/pages/projects-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/pages/projects-min-min.css",
 		"oF": 0,
 		"oS": 1
 		},
