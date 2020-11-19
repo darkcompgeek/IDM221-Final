@@ -78,3 +78,13 @@ ul li {
 .container:hover .overlay {
   opacity: 1;
 }
+
+nav .deselected:link,
+.deselected:visited {
+  border-bottom: 3px solid var(--gray);
+  transition: 0.25s ease;
+}
+nav .deselected:hover,
+.deselected:active {
+  border-bottom: 3px solid var(--liteGray);
+}
