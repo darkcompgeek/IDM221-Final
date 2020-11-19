@@ -22,6 +22,9 @@
   height: 35vh;
 }
 
+.subpage-body section article {
+  padding: 1.5rem 0;
+}
 #awbury-header {
   background-image: url("../../img/portfolio/awbury/gate.jpg");
 }
