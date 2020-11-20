@@ -12,6 +12,7 @@
   padding: 1rem 0;
   line-height: 1.25rem;
   font-size: 0.9rem;
+  color: var(--liteGray);
 }
 
 .subpage-body .link {
