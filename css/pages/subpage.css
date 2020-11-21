@@ -35,3 +35,7 @@
 .subpage-body section article {
   padding: 1.5rem 0;
 }
+.subpage-body iframe {
+  width: 100%;
+  height: 1280;
+}
