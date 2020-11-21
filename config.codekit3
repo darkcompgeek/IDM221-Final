@@ -1066,6 +1066,14 @@
 		"oA": 0,
 		"oAP": "/subpages/projects/p5.html",
 		"oF": 0
+		},
+	"/subpages/projects/pq2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/subpages/projects/pq2.html",
+		"oF": 0
 		}
 	},
 "hooks": [
