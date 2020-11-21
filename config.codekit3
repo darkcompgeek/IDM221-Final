@@ -1018,6 +1018,14 @@
 		"oA": 0,
 		"oAP": "/subpages/portfolio/wydeye.html",
 		"oF": 0
+		},
+	"/subpages/portfolio/wyre.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/subpages/portfolio/wyre.html",
+		"oF": 0
 		}
 	},
 "hooks": [
