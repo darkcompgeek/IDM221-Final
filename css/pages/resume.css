@@ -1,0 +1,13 @@
+#resume p {
+  margin-bottom: 0.75rem;
+  line-height: 1.25rem;
+}
+.resume-category {
+  padding: 1rem 0;
+}
+#resume h2 {
+  margin-bottom: 1rem;
+}
+#resume h3 {
+  margin-bottom: 1rem;
+}
