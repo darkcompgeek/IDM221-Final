@@ -560,15 +560,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/good-dog/abstract.png": {
-		"ft": 32768,
-		"iS": 204975,
+	"/img/portfolio/good-dog/abstract.jpg": {
+		"ft": 16384,
+		"iS": 182010,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/good-dog/abstract.png",
+		"oAP": "/img/portfolio/good-dog/abstract.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -581,7 +581,7 @@
 		"oAP": "/img/portfolio/good-dog/back.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -594,20 +594,20 @@
 		"oAP": "/img/portfolio/good-dog/back2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/good-dog/combination.png": {
-		"ft": 32768,
-		"iS": 176589,
+	"/img/portfolio/good-dog/combination.jpg": {
+		"ft": 16384,
+		"iS": 303972,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/good-dog/combination.png",
+		"oAP": "/img/portfolio/good-dog/combination.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -633,7 +633,7 @@
 		"oAP": "/img/portfolio/good-dog/labels.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
@@ -651,15 +651,15 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/portfolio/good-dog/typographical.png": {
-		"ft": 32768,
-		"iS": 42859,
+	"/img/portfolio/good-dog/typographical.jpg": {
+		"ft": 16384,
+		"iS": 54890,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/portfolio/good-dog/typographical.png",
+		"oAP": "/img/portfolio/good-dog/typographical.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
