@@ -198,19 +198,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/personal/portraits.jpg": {
-		"ft": 16384,
-		"iS": 119391,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/personal/portraits.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/img/personal/pq2.jpg": {
 		"ft": 16384,
 		"iS": 94625,
