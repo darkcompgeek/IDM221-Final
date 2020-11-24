@@ -24,6 +24,10 @@ ul {
 ul li {
   list-style: none;
 }
+.projects-grid li {
+  border-radius: 0.5rem;
+}
+
 .link:link,
 .link:visited {
   color: var(--black);
