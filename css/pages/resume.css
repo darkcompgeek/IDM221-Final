@@ -5,8 +5,12 @@
 .resume-category {
   padding: 1rem 0;
 }
+
+.resume-category ul {
+  padding: 0 1rem;
+}
 #resume h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 #resume h3 {
   margin-bottom: 1rem;
